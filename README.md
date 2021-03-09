@@ -1,2 +1,2 @@
 # first
- 练习
+ 我们小组是xxxx，我是xxxx.
